@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icons8-search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1254.000000, -106.000000)">
+        <g id="Group" fill="#000" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(0.000000, 84.000000)">
+                <g id="Group-12">
+                    <g id="icons8-search" transform="translate(1264.000000, 32.000000) scale(-1, 1) translate(-1264.000000, -32.000000) translate(1254.000000, 22.000000)">
+                        <path d="M12.0913462,0 C7.85156231,0 4.39903846,3.45252385 4.39903846,7.69230769 C4.39903846,9.53425462 5.04507231,11.2229569 6.12980769,12.5480769 L0,18.6778846 L1.10576923,19.7836538 L7.23557692,13.6538462 C8.56069692,14.7385815 10.2493992,15.3846154 12.0913462,15.3846154 C16.33113,15.3846154 19.7836538,11.9320915 19.7836538,7.69230769 C19.7836538,3.45252385 16.33113,0 12.0913462,0 Z M12.0913462,1.53846154 C15.4987985,1.53846154 18.2451923,4.28485615 18.2451923,7.69230769 C18.2451923,11.09976 15.4987985,13.8461538 12.0913462,13.8461538 C8.68389462,13.8461538 5.9375,11.09976 5.9375,7.69230769 C5.9375,4.28485615 8.68389462,1.53846154 12.0913462,1.53846154 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,59 @@
+.servicesMain__item__ico,.socBlock-main a {
+	transition: all .3s linear .3s;
+}
+.servicesMain__item__ico:hover,.socBlock-main a:hover{
+	transform: rotate(360deg);
+}
+
+#promoModalCaravan .modal-content{
+	background-image: url(../img/caravan.jpg);
+}
+
+#promoModalCaravan .promoModal__btn {
+	background-color: #CF002C;
+	color: #fff;
+	border: 2px solid #fff;
+	transition: all .2s ease-in-out;
+}
+#promoModalCaravan .promoModal__btn:hover {
+	background-color: #fff;
+	color: #CF002C;
+	border: 2px solid #CF002C;
+}
+@media (max-width: 420px) {
+	.article__control-wrap .btn-standart{
+		margin-bottom: 16px;
+	}
+	.article__control-wrap .col + .col {
+		display: none;
+	}
+	#promoModalCaravan.promoModal .modal-content {
+		height: 210px;
+		padding: 20px;
+	}
+	#promoModalCaravan .promoModal__label {
+		font-size: 10px;
+		font-weight: 500;
+		padding: 4px 10px;
+	}
+	#promoModalCaravan .promoModal__title {
+		max-width: 220px;
+		font-size: 20px;
+		margin-top: 8px;
+	}
+	#promoModalCaravan .promoModal__info {
+		padding: 5px 30px !important;
+		
+	}
+	#promoModalCaravan .promoModal__info .col {
+		padding: 5px;
+	}
+	#promoModalCaravan .promoModal__text {
+		font-size: 14px;
+		line-height: 16px;
+	}
+	#promoModalCaravan .promoModal__btn {
+		padding: 5px 8px;
+		font-size: 13px;
+	}
+}
