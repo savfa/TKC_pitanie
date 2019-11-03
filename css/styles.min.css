@@ -121,6 +121,7 @@ h1 {
 }
 .meal_gallery_big_item img {
     width: 100%;
+    max-height: 740px;
 }
 .meal_gallery_preview {
     margin-top: 30px;
