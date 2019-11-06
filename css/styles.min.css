@@ -465,12 +465,7 @@ a {
     margin-bottom: 30px;
 }
 
-/*.questions__list {
-    max-width: 1000px;
-    margin: 0 auto;
-}*/
-
-.questions__item {
+.questions__item, .travel__item {
     background-color: #FFF;
     margin-bottom: 20px;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.04);
@@ -493,6 +488,7 @@ a {
 .questions__item__text {
     display: none;
     padding: 0 20px 20px;
+    font-size: 18px;
 }
 
 .questions__item__trigger{
@@ -1832,9 +1828,16 @@ a {
     font-family: 'proxima';
     margin-bottom: 20px;
 }
-.by_img img{
-    width: 100%;
-    margin-bottom: 30px;
+.by_img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    padding-bottom: 45px;
+    margin: 30px 0;
+}
+.by_img img {
+    max-width: 700px;
 }
 @media (max-width: 1440px) {
     .buy .descr, .question-section .descr {
@@ -2236,7 +2239,7 @@ a {
 }
 /*travel */
 .travel {
-    font-size: 16px;
+    font-size: 18px;
 }
 .travel .title {
     margin-bottom: 20px;
@@ -2244,8 +2247,20 @@ a {
 .travel a {
     color: #cf002c;
 }
-.travel__list-item {
-    margin-top: 30px;
+.travel__item__text {
+    padding: 20px;
+}
+.travel__item__text p {
+    margin-bottom: 15px;
+}
+.travel__img {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100px;
+}
+.travel__img img {
+    max-width: 700px;
 }
 
 /*patch mobile' */
