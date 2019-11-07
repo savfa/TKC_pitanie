@@ -79,7 +79,7 @@ h1 {
     display: none!important;
 }
 .info-pay__slider button[aria-label="Next"] {
-    background: red;
+    background: #CC0A31;
     border-radius: 50%;
     width: 50px;
     height: 50px;
@@ -101,7 +101,7 @@ h1 {
     max-width: 300px;
     text-align: center;
     text-decoration: underline;
-    color: red;
+    color: #CC0A31;
     text-transform: uppercase;
     font-weight: bold;
     margin: 0 auto;
@@ -109,7 +109,7 @@ h1 {
 
 .info-pay__slider img {
     max-width: 100%;
-    border: 2px solid red;
+    border: 2px solid #CC0A31;
     margin-bottom: 20px;
 }
 
@@ -144,7 +144,8 @@ h1 {
     font-size: 16px;
 }
 .meal_gallery_preview_item.slick-current p span {
-    color: #000;
+    color: red;
+    text-shadow: 0 0 5px black;
     font-weight: bold;
 }
 .gallery_info {
